@@ -1,0 +1,7 @@
+{
+    "name": "com-seleium-file-upload-example",
+    "version": "0.0.1",
+    "dependencies": {
+        "restler": "^3.2.2"
+    }
+}
